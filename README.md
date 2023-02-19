@@ -1,4 +1,4 @@
-# mine-the-model-celesta-2023
+# House Price Prediction Using House Image and Details
 The objective, is to create a machine-learning model to predict the retail price of houses given tabular data like house sqft, # of toilets/rooms, and location, along with an image of the house. 
 
 So I have created a deep learning  model using ensembling concept, creating two models, one is image encoder and second one uses details.
